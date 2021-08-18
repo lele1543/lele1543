@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lele1543
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'm looking for a collaboration on Python
 - 📫 How to reach me lele1543@163.com
 
 <!---
